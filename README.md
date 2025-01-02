@@ -3,7 +3,7 @@ Essa receita de sucesso foi obtida depois de 6 anos tentando fazer pizza aqui em
 
 ## Chat original
 
-'''
+```
 [12:26, 06/01/2018] Tânia:
 
 Massa de pizza (simples)
@@ -21,9 +21,9 @@ Juntar a gordura, o ovo, o leite e o sal. Depois acrescentar o fermento e o trig
 Vendo que a quantidade de massa é insuficiente é só acrescentar um pouco de líquido e trigo.
 
 Dica: não fazer a massa muito dura porque se não fica duro que nem um pau.
-'''
+```
 
-'''
+```
 [12:26, 09/06/2023] Patusco: 
 
 1- pre-aquecer o forno sem a forma dentro dele na temperatura máxima dele por uns 15 minutos;
@@ -44,7 +44,7 @@ Dica: não fazer a massa muito dura porque se não fica duro que nem um pau.
 [12:26, 09/06/2023] Patusco: Fica perfeito
 
 [12:26, 09/06/2023] Patusco: O alho cru da uma refrescância
-'''
+```
 
 
 ## Histórico
