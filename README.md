@@ -33,8 +33,11 @@ Dica: não fazer a massa muito dura porque se não fica duro que nem um pau.
 
 (Falando sobre tomate pelado)
 [12:26, 09/06/2023] Patusco: Uma lata dessa você bate com dois dentes de alho cru e um maço de manjericão e uma colher de chá de sal
+
 [12:26, 09/06/2023] Patusco: Rende molho pra 3 pizzas de 35cm
+
 [12:26, 09/06/2023] Patusco: Fica perfeito
+
 [12:26, 09/06/2023] Patusco: O alho cru da uma refrescância
 '''
 
