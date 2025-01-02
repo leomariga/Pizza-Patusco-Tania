@@ -1,6 +1,60 @@
 # Pizza-Patusco-Tânia
 Essa receita de sucesso foi obtida depois de 6 anos tentando fazer pizza aqui em Cascavel com meu pai. 
 
+Segue uma versão profissional da receita:
+
+---
+
+### **Pizza Artesanal: Massa e Molho**
+
+#### **Ingredientes para a Massa (Rendimento: 1 pizza de aproximadamente 35 cm)**
+
+- **2 colheres de sopa** de gordura (manteiga, óleo ou banha, conforme preferência)  
+- **1 ovo** inteiro  
+- **½ xícara** de leite ou água (ajuste de acordo com o ponto desejado)  
+- **½ colher de sopa** de fermento químico (para bolos)  
+- **1 pitada de sal**  
+- Farinha de trigo, **quanto baste** (até atingir a textura desejada, semelhante à de massa de cuca, maleável e fácil de espalhar)
+
+#### **Preparo da Massa**
+
+1. **Misture os ingredientes líquidos e o sal:** Em uma tigela, combine a gordura, o ovo, o leite (ou água) e o sal. Mexa bem até incorporar.  
+2. **Adicione os secos:** Acrescente o fermento químico e, aos poucos, adicione a farinha de trigo até obter uma massa macia, ligeiramente pegajosa, mas que permita ser espalhada facilmente.  
+   - **Dica:** Evite deixar a massa muito firme para garantir leveza após o cozimento.  
+3. **Ajuste a quantidade:** Se precisar de mais massa, adicione um pouco mais de líquido e farinha, mantendo a proporção.  
+
+---
+
+#### **Ingredientes para o Molho (Rendimento: 3 pizzas de 35 cm)**
+
+- **1 lata de tomate pelado**  
+- **2 dentes de alho cru**  
+- **1 maço pequeno de manjericão fresco**  
+- **1 colher de chá de sal**  
+
+#### **Preparo do Molho**
+
+1. **Bata os ingredientes:** No liquidificador ou mixer, processe o tomate pelado junto com o alho cru, o manjericão e o sal até obter um molho homogêneo.  
+   - **Dica:** O alho cru confere um toque de frescor ao molho.  
+
+---
+
+#### **Montagem e Cozimento**
+
+1. **Pré-aqueça o forno:** Ligue o forno na temperatura máxima e deixe aquecer por cerca de 15 minutos.  
+2. **Prepare a base:** Espalhe a massa uniformemente sobre uma forma de pizza.  
+3. **Adicione o molho:** Com uma colher ou pincel, aplique uma camada fina de molho sobre a massa (quantidade semelhante à de manteiga em uma fatia de pão).  
+4. **Pré-asse a massa:** Leve ao forno até que o molho evapore e a massa ganhe leve estrutura, aproximadamente 5 minutos.  
+5. **Finalize com cobertura:** Retire do forno, cubra com mozarela e fatias de calabresa.  
+6. **Asse até dourar:** Retorne ao forno e asse por mais 10 minutos, ou até que a calabresa esteja dourada e o queijo derretido.  
+
+---
+
+### **Sugestão de Servir**
+Sirva a pizza quente, acompanhada de azeite ou pimenta fresca para um toque especial. 
+
+
+
 ## Chat original
 
 ### Massa da pizza (Receita da Tânia)
