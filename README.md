@@ -27,7 +27,7 @@ Segue uma versão profissional da receita:
 
 #### **Ingredientes para o Molho (Rendimento: 3 pizzas de 35 cm)**
 
-- **1 lata de tomate pelado**  
+- **1 lata de tomate pelado italiano**  
 - **2 dentes de alho cru**  
 - **1 maço pequeno de manjericão fresco**  
 - **1 colher de chá de sal**  
