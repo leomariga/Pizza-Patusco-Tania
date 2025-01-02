@@ -34,7 +34,7 @@ Segue uma versão profissional da receita:
 
 #### **Preparo do Molho**
 
-1. **Bata os ingredientes:** No liquidificador ou mixer, processe o tomate pelado junto com o alho cru, o manjericão e o sal até obter um molho homogêneo.  
+1. **Bata os ingredientes:** No liquidificador ou mixer, processe o *tomate pelado italiano* junto com o alho cru, o manjericão e o sal até obter um molho homogêneo.  
    - **Dica:** O alho cru confere um toque de frescor ao molho.  
 
 ---
