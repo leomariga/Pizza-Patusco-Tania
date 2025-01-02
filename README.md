@@ -26,8 +26,11 @@ Dica: não fazer a massa muito dura porque se não fica duro que nem um pau.
 '''
 [12:26, 09/06/2023] Patusco: 
 1- pre-aquecer o forno sem a forma dentro dele na temperatura máxima dele por uns 15 minutos;
+
 2- montar a massa na forma de pizza e colocar o molho em cima dela. A quantidade de molho deve ser similar à quando você fazer um pão com manteiga, apenas umas pinceladas por cima.
+
 3- assar a massa até o molho evaporar, você vai ver ele mudar de cor (ficar mais seco) e a massa vai criar um pouco de estrutura (ela vai assar um pouco, vai ficar levemente durinha). Normalmente 5 minutos é suficiente nessa etapa. 
+
 4- colocar a mozarela e a calabresa por cima. Assar até a calabresa ficar dourada (mais uns 10 minutos)
 
 
