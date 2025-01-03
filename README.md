@@ -12,7 +12,7 @@ Segue uma versão profissional da receita:
 - **2 colheres de sopa** de gordura (manteiga, óleo ou banha, conforme preferência)  
 - **1 ovo** inteiro  
 - **½ xícara** de leite ou água (ajuste de acordo com o ponto desejado)  
-- **½ colher de sopa** de fermento químico (para bolos)  
+- **½ colher de sopa** de fermento químico (para bolos)  - Talvez um pouco menos -
 - **1 pitada de sal**  
 - Farinha de trigo, **quanto baste** (até atingir a textura desejada, semelhante à de massa de cuca, maleável e fácil de espalhar)
 
@@ -42,11 +42,12 @@ Segue uma versão profissional da receita:
 #### **Montagem e Cozimento**
 
 1. **Pré-aqueça o forno:** Ligue o forno na temperatura máxima e deixe aquecer por cerca de 15 minutos.  
-2. **Prepare a base:** Espalhe a massa uniformemente sobre uma forma de pizza.  
-3. **Adicione o molho:** Com uma colher ou pincel, aplique uma camada fina de molho sobre a massa (quantidade semelhante à de manteiga em uma fatia de pão).  
-4. **Pré-asse a massa:** Leve ao forno até que o molho evapore e a massa ganhe leve estrutura, aproximadamente 5 minutos.  
-5. **Finalize com cobertura:** Retire do forno, cubra com mozarela e fatias de calabresa.  
-6. **Asse até dourar:** Retorne ao forno e asse por mais 10 minutos, ou até que a calabresa esteja dourada e o queijo derretido.  
+2. **Prepare a base:** Espalhe a massa uniformemente sobre uma forma de pizza.
+3. **Preaqueça a massa (pro meu forno apenas 250º):** Deixe a massa pré-assando entre 15 e 20 minutos 
+4. **Adicione o molho:** Com uma colher ou pincel, aplique uma camada fina de molho sobre a massa (quantidade semelhante à de manteiga em uma fatia de pão).  
+5. **Pré-asse a massa:** Leve ao forno até que o molho evapore e a massa ganhe leve estrutura, aproximadamente 5 minutos.  
+6. **Finalize com cobertura:** Retire do forno, cubra com mozarela e fatias de calabresa.  
+7. **Asse até dourar:** Retorne ao forno e asse por mais 10 minutos, ou até que a calabresa esteja dourada e o queijo derretido.  
 
 ---
 
